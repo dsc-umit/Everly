@@ -1,7 +1,10 @@
 # Everly
 
-## Our Team
-Mentor: Rishit Dagli
+
+## Team Members
+Mentor: Smith Jethwa
+=======
+
 
 Co-mentor: Bhoomika Wavhal
 
