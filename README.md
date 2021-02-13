@@ -1,6 +1,6 @@
 # Everly
 
-## Our Team
+## Team Members
 Mentor: Smith Jethwa
 
 Co-mentor: Bhoomika Wavhal
